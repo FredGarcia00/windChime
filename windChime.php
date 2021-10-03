@@ -604,7 +604,7 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
         Wind Chime
       </div>
       <div id="author">
-        Joseph Lewis | <?=date('l\, F d\, Y',strtotime('-9 days'));?>
+      Aubree Valentine | <?=date('l\, F d\, Y',strtotime('-9 days'));?>
       </div>
     </div>
   </div>
@@ -629,8 +629,8 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       </div>
 
       <div id="mainContent">
-    <div class="articleImg">
-      <img src="../img/Splash-Image-CarTrash.jpg" width="100%" />
+    <div class="articleImg" >
+      <img src="img/splash.jpg" width="100%" />
     </div>
     <div class="articleText">
       <p>The power of memory is like a drug.</p>
@@ -650,12 +650,12 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       <p>The sound was so beautiful. It stirred a sense of calm deep within me.</p>
 
 	<div class="articleImgsmall">
-      <img src="../img/CarTrash2-1.jpg" width="100%" />
+      <img src="img/enjoy.jpg" width="100%" />
       </div>
 
       <p>Almost a full minute passed when I realized the sound wasn’t in my head. It was a real sound, floating over the garden, passing between the flowers as they danced in the breeze.</p>
 
-      <p>I tracked it down to the most curious wind chime.</p>
+      <p>I tracked it down to the most curious <a class="articleLink" href="<?=$exitLink;?>">wind chime</a>.</p>
 
       <p>It hung on the porch at the threshold of the garden, a simple elegance that I had overlooked. As the breeze picked up again, the chime shifted, emitting that mellifluous series of tones that had so enraptured me a moment ago.</p>
 
@@ -663,75 +663,74 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
 
       <p>Imagine my despair when a week later one of my kids decided it was a good idea to pull it down and use some of the chimes as drumsticks. Yes, they took the scissors out of their craft kit and cut ALL of the tubes off. </p>
 
-      <p>	Looking at the wreckage of the wind chime, I knew I couldn’t fix it. I set to the internet immediately to try to locate another one, for the first time wondering where my father had gotten this particular wind chime.</p>
-
-      <p>That’s when I found out about [Product Name].</p>
 
       <div class="blockQuote">
-         <i>““Oh, man,” he said, “we all deal with that problem. I couldn’t believe it until it happened to me, but I got a one star review because one of my riders left a banana peel and chewing tobacco flakes on the seat, and I didn’t see it until it was too late. You have got to get yourself a <a class="articleLink" href="<?=$exitLink;?>">TidyCar Car Trash Can</a>. Once you have it, you’ll be kicking yourself that you didn’t get it earlier.”
-		Wow, I thought. That does sound like an easy fix.
-		“How much is it?”
-		He smiled. “It’s not expensive at all. You get a discount if you order it straight from the company website, and I’m telling you, it’s nice. People instinctually use it because it’s so convenient, and you just empty it out at the end of your shift.”
-		</i>
+         <i>
+         Looking at the wreckage of the wind chime, I knew I couldn’t fix it. I set to the internet immediately to try to locate another one, for the first time wondering where my father had gotten this particular wind chime.
+		  </i>
       </div>
+      <p>That’s when I found out about <a class="articleLink" href="<?=$exitLink;?>">AriaBreeze</a>.</p>
 
-      <p>That made the wait at the DMV a lot less annoying. I thanked him for the information and I began to research the TidyCar Car Trash Can right away. If it was everything this guy claimed it was, then it really was a no-brainer.</p>
 
       </div>
     <div class="articleSubheader">
       What Is It And How Does It Work?
     </div>
-    <div class="articleImgsmall">
-      <img src="../img/CarTrash1.jpg" width="100%" />
+    <div class="articleImgsmall" style="width:10%;">
+      <img src="img/product.jpg" width="100%" />
     </div>
     <div class="articleText">
-      <p>The <a class="articleLink" href="<?=$exitLink;?>">TidyCar Car Trash Can</a> is a versatile container for all trash items that fits neatly into any vehicle. Structurally designed to prevent collapse or tipping over, plus a built-in waterproof interior so you don’t have to worry about drink spillage, this is the best trash can for your car.</p>
+      <p>The <a class="articleLink" href="<?=$exitLink;?>">AriaBreeze</a> is a wind chime for people who actually LIKE their neighbors.</p>
 
-      <p>TidyCar Car Trash Can has an incredible 2 gallon capacity, and comes with an adjustable buckle so you can fasten it around your center console. The opening is large enough for most drink containers, and if you need to dispose of a fast food bag or something larger, simply lift the easy access lid’s Velcro lip to open the top of the bag.</p>
+      <p>Don’t be that guy or gal who hangs up a noisy contraption of stainless steel tubes that bang together to make a sound like a robot in the throes of a grand mal seizure. If there’s no musicality, no soul in the sound, it’s just a sound—and that might be why your neighbors are giving you those dirty looks every time a breeze sets off those ear-grating wind chimes of the past.</p>
 
-      <p>There’s no need to let garbage accumulate in your vehicle; TidyCar Car Trash Can provides a way to collect excess papers, drink cups, food wrappers and anything else you don’t need in one simple, waterproof space that is easy to empty out and clean once you’re done driving.</p>
+      <p>The AriaBreeze is a medium sized chime, measuring a total of 29” from the top of the hanging ring to the bottom of the wind-catcher. Its 6 aluminum tubes measure from 10”-14” and have been expertly calibrated to create pleasing, harmonies.</p>
+
+      <p>AriaBreeze was designed by a concert violinist whose musical passion has been felt by the world for generations. This wind chime is like no other—music is the universal language of the human experience—and this wind chime has been designed to evoke a calming sensation deep within all who hear it. How can this be achieved? It’s more than the highest quality bamboo wind-catcher and aluminum tubes…it’s the magic of the pentatonic scale.</p>
+
+      <p>After hours of study and decades of music experience, the expert sat down and wrote a five-note scale that has been proven to calm the listener. In the same way that psychologists recognize the Pavlov’s Dog effect (most animals, and most people, can be conditioned to associate a particular sound with a particular response) musicians have discovered that this particular scale universally induces a relaxed response in any person who hears it.</p>
+
+      <p>Apply that to a wind chime, and you have the cherry on top to your favorite relaxation area. Whether you’re camping, enjoying a cold drink on a hot day on your patio or in your backyard, or if you enjoy gardening and you want to add the perfect touch to the ambiance, <a class="articleLink" href="<?=$exitLink;?>">AriaBreeze</a> is what you’ve been missing! </p>
     </div>
-    <div class="articleImgsmall">
-      <img src="../img/CarTrash2.jpg" width="100%" />
-    </div>
+   
     <div class="articleSubheader">
       But…Is It Really Worth All This Hype?
     </div>
     <div class="articleText">
-      <p>So far, the <a class="articleLink" href="<?=$exitLink;?>">TidyCar Car Trash Can</a> has sold over 10 million units directly to consumers, even without the help of being sold in stores. The TidyCar Car Trash Can has been SELLING OUT every time new stock becomes available, it’s become THAT popular.</p>
+      <p>Now that the secret is out, the <a class="articleLink" href="<?=$exitLink;?>">AriaBreeze</a> has sold over 8 million units directly to consumers, even without the help of being sold in stores. The AriaBreeze has been SELLING OUT every time new stock becomes available, it’s become THAT popular.</p>
 
-      <p>And, it’s all from word of mouth. People just like you are loving it so much that they’re posting about it on instagram and telling everyone they know about it!</p>
+      <p>And, it’s all from word of mouth. People just like you are loving it so much that they’re posting about it on Instagram and telling everyone they know about it!</p>
     </div>
     <div class="articleImgsmall">
-      <img src="../img/IGCarTrash1.jpg" width="100%" style="border: 1px solid #ddd;" />
+      <img src="img/igPost.jpg" width="100%" style="border: 1px solid #ddd;" />
     </div>
     <div class="articleImgsmall">
-      <img src="../img/IGCarTrash2.jpg" width="100%" style="border: 1px solid #ddd;" />
+      <img src="img/igPost2.jpg" width="100%" style="border: 1px solid #ddd;" />
     </div>
     <div class="articleText">
-      <p>The TidyCar Car Trash Can has started to develop a cult following, and with over 8,000 5-star reviews, it makes sense. Here’s what customers are saying about it:</p>
+      <p>The <a class="articleLink" href="<?=$exitLink;?>">AriaBreeze</a> has started to develop a cult following, and with over 8,000 5-star reviews, it’s easy to see why. Here’s what customers are saying about it:</p>
     </div>
     <div class="reviewBox">
       <div class="namePic">
-        M
+        L
         <div class="nameCheck">
           <img src="../img/revcheck.png" width="100%" />
         </div>
       </div>
       <div class="reviewHeader">
         <div class="rh1">
-          <span style="font-weight: 700; color: #444; font-size: 15px;">Luke L.</span> Verified Buyer
+          <span style="font-weight: 700; color: #444; font-size: 15px;">Logan L.</span> Verified Buyer
         </div>
         <div class="rh2">
           <img src="../img/stars.png" height="100%" />
         </div>
       </div>
       <div class="dateRight">
-        3/27/21
+        9/27/21
       </div>
       <div class="clear"></div>
       <div class="reviewText">
-        The product was larger than I expected, in a good way ;). The materials are solid and the interior looks like it could definitely handle a few spills. The support sticks used to hold it open seem like they could fall out since there is no sleeve, but otherwise everything looks good.
+      My wife picked this out & I wasn't super excited to get a wind chime. But after a few days of it being out back, I started to enjoy it more & more every time I heard it. This got me more interested to look at it more closely & the hexagon pattern is really nice. Modern & minimal. I have to say I am really impressed with it.
       </div>
     </div>
     <div class="reviewBox">
@@ -743,18 +742,18 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       </div>
       <div class="reviewHeader">
         <div class="rh1">
-          <span style="font-weight: 700; color: #444; font-size: 15px;">Anne A.</span> Verified Buyer
+          <span style="font-weight: 700; color: #444; font-size: 15px;">Harold A.</span> Verified Buyer
         </div>
         <div class="rh2">
           <img src="../img/stars.png" height="100%" />
         </div>
       </div>
       <div class="dateRight">
-        3/30/21
+        9/28/21
       </div>
       <div class="clear"></div>
       <div class="reviewText">
-         Love this car trashcan! Fits my 2008 Toyota Corolla. Both passenger and driver can easily reach it. Can use a regular plastic bag from Walmart to fit inside. I especially like the Velcro strip on the underside that sticks to the carpet to secure it in place. Highly Recommend! Great price!
+      I wanted a wind chime that I could enjoy so I bought this one.The construction is sturdy, the colors are beautiful, and when we have a chance to have the windows open, the chimes gently ring when breezes wend their way onto our porch. It’s awesome.
       </div>
     </div>
     <div class="reviewBox" style="border-bottom: none;">
@@ -766,58 +765,67 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       </div>
       <div class="reviewHeader">
         <div class="rh1">
-          <span style="font-weight: 700; color: #444; font-size: 15px;">Kim C.</span> Verified Buyer
+          <span style="font-weight: 700; color: #444; font-size: 15px;">Elena C.</span> Verified Buyer
         </div>
         <div class="rh2">
           <img src="../img/stars.png" height="100%" />
         </div>
       </div>
       <div class="dateRight">
-        4/2/21
+        10/1/21
       </div>
       <div class="clear"></div>
       <div class="reviewText">
-          I was pleasantly surprised by the quality. It might sound silly but I wanted something that would stand up to a fair amount of use as the kids and I spend a LOT of time driving and often eat on the go, creating all kinds of garbage.
-			This was perfect for my needs. Good size and well designed.
+      These are beautiful, well crafted, and lovely sounding chimes. I bought them for myself as a birthday gift and I love them. They come in basic packaging, which is a little deceiving for the quality of the chimes. I will be buying more for my family members as I know it will make them smile as I have.
 
       </div>
     </div>
-    <div class="articleText">
-      <p>After seeing the incredible reviews this product was getting and the recommendation from my brother, I knew I had to try it for myself. I logged on to the company’s <a class="articleLink" href="<?=$exitLink;?>">official website</a> and ordered one the moment it came back in stock.</p>
-    </div>
+  
     <div class="articleSubheader">
-      …Here’s What I Found.
+    I Tried It Myself…Here’s What I Found
     </div>
     <div class="articleText">
-      <p>The TidyCar Car Trash Can arrived in just 2 days. The installation was just as simple as I hoped it would be: I took it out of the box, unfolded it and used the adjustable strap to affix it over my center console, and it was ready to rock!</p>
-	  <p>It felt so official, having this high quality trash can available in my vehicle. It may seem like a simple thing, and that’s because it is: I get so much use out of it, let me tell you. It’s one of the first things riders see when they get in my vehicle, and almost every single rider uses it instinctively; I don’t even have to point it out to them. It’s really nice, and it takes a lot of the burden of clean up off of my shoulders as the driver.</p>
+      <p>After I discovered the <a class="articleLink" href="<?=$exitLink;?>">official website</a> where my father had gotten his wind chime, I ordered two of them on the official website. My AriaBreezes showed up at my door 2 days later. I was amazed…nowadays, that’s even faster than Amazon!</p>
+
       <div class="articleImg">
-        <img src="../img/CarTrash3.jpg" width="100%" />
+        <img src="img/unboxing.jpg" width="100%" />
       </div>
 
-      <p>The absolute best part of using the TidyCar Car Trash Can is how easy the clean up is. It’s large enough that I can do a six or eight hour shift without having to empty it until the end of the day. I just remove it from the car, empty the trash into a dumpster, and wipe out the interior with some disinfectant wipes. At the end of the week, I bring it inside and scrub the interior with some dish soap and leave it to air dry, and it’s ready to go for me on Monday morning. The entire cleaning process takes about five minutes—compared to the constant cleaning of my backseat I was doing before.</p>
+	  <p>I <a class="articleLink" href="<?=$exitLink;?>">unboxed them</a>, amazed at the quality of the bamboo wind-catchers and the high quality aluminum tubes. I hung one of the porch where I’d placed my father’s, and put the other one out by the front door. I was so relieved to have them hanging up and playing their music all day as the wind came and went…it was a sigh of relief.</p>
 
-      <p>Of course, I loved the ease and convenience of TidyCar Car Trash Can so much I bought one for my wife’s car. She used to do this cute thing where she would get a grocery bag and use that as a trash can, but there isn’t a really good place to hang the handles, and there’s been times when she put a drink cup in there, and it ended in disaster. Now, she’s got a care-free solution and never has to worry about spills or trash accumulating in her car ever again!</p>
+      <p>Beyond that, I find myself spending more time enjoying my backyard and actually watching my kids play, rather than holing up inside. The music from these chimes is ethereal. That scale, the pentatonic scale they use in the AriaBreeze, really does work. Whether I’m having a rough day or just missing my father, I can spend as little as five or ten minutes just sitting and relaxing, letting my feelings out and my thoughts wander as the gentle tinkling of the chime passes over me.</p>
+
+      <div class="articleImg" style="width:40%;">
+        <img src="img/porch.jpg" width="100%" />
+      </div>
+
+      <p>My therapist even said this was exactly what she was talking about.</p>
+
+      <p>A healthy way to deal with my feelings, something constructive and relaxing.</p>
+
+      <p>It’s pretty easy to see all those five star reviews were there for a reason. I appreciate the simplicity and the elegance of the AriaBreeze. It’s given me a better backyard experience! The visual appeal of the <a class="articleLink" href="<?=$exitLink;?>">AriaBreeze</a> over my porch is…it just looks like it belongs there. And let me tell you, people take notice.</p>
+
+      <p>I have friends over just about every weekend, and it never fails they notice my new AriaBreeze, and when the wind kicks in, the response is always pleasant surprise. Things like “Wow, that’s beautiful! Where’d you get something like that?” or, “Woah, that’s the most melodic wind chime I’ve ever heard!” I’m more than happy to talk about how my father was the one who discovered it, and in a way it’s the last connection I’ll ever share with him. I always point people to the official website, and I know a few of my friends have already ordered their own AriaBreezes for their patios and backyards.</p>
+
+      <p>To put it plainly, the AriaBreeze is exactly what I needed.</p>
+
+      <p>It works wonders for me, and I know it will for you, too. </p>
     </div>
     <div class="articleSubheader">
       How Much Does It Cost?
     </div>
     <div class="articleText">
-      <p>It’s currently on sale at their <a class="articleLink" href="<?=$exitLink;?>">official website</a> for just the price of $15.97!</p>
-    </div>
-    <div class="articleSubheader">
-      Is It Worth It?
-    </div>
-    <div class="articleText">
-      <p>	Of course! My wife is stuck carting the kids to and from school and all over the city for their sports. If you have kids, you know they tend to be messy—especially our kids, when they’re constantly moving between activities—and the TidyCar Car Trash Can is an easy way to cut down on that mess significantly. I can’t recommend TidyCar Car Trash Can enough. I just wish I knew about it sooner; I might have been able to save myself that three-star review!</p>
+      <p>It’s currently on sale at the <a class="articleLink" href="<?=$exitLink;?>">official website</a> for just $34.94!</p>
 
-      </div>
+      <p>Get your hands on the revolutionary AriaBreeze and experience the elegance for yourself. Don’t spend another day torturing yourself and your neighbors with those junkyard-quality chimes, enduring dirty looks from anyone in earshot. From relaxing at home in your backyard to camping in the great outdoors, AriaBreeze bathes you in a soothing melody so you can relax and enjoy yourself. Take action now and let AriaBreeze enhance your life!</p>
+    </div>
+   
     <div class="updateBox">
       <div class="updateTop">
         UPDATE
       </div>
       <div class="updateBot">
-        <b>UPDATE <?=date('l\, F d\, Y',strtotime('-0 days'));?></b> - Ever since <a class="articleLink" href="<?=$exitLink;?>">TidyCar</a> was featured on TV, an incredible amount of buzz has been generated and has since sold over 10 million units. Due to its popularity and positive reviews, the company is so confident in their product that they are now offering a <b>one-time discount of 50% off. To see if they are still available, click on the button below.</b>
+        <b>UPDATE <?=date('l\, F d\, Y',strtotime('-0 days'));?></b> - Ever since <a class="articleLink" href="<?=$exitLink;?>">AriaBreeze</a> was featured on TV, an incredible amount of buzz has been generated and has since sold over 8 million units. Due to its popularity and positive reviews, the company is so confident in their product that they are now offering a <b>one-time discount of 50% off. To see if they are still available, click on the button below.</b>
       </div>
     </div>
 
